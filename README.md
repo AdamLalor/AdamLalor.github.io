@@ -6,4 +6,4 @@ Some of the commands that I learned consisted of git push, git commit, git statu
 
 -Git Add (add the file you want to edit to the commit -Unstaged)
 -Git Commit (stages the file that we just added and prepares it for the push)
-⋅⋅*-Git Push (pushes our local file to github -this can then be read by anyone)
+-Git Push (pushes our local file to github -this can then be read by anyone)
