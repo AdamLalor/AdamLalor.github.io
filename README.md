@@ -14,3 +14,5 @@ Some of the commands that I learned consisted of git push, git commit, git statu
 
 
 -Git Status (Shows the status of the file that was edited and if it was staged or not)
+
+#Day 2
