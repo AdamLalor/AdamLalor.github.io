@@ -19,4 +19,4 @@ Some of the commands that I learned consisted of git push, git commit, git statu
 
 
 Today we as a group looked at the schools website and looked at what we can improve. We used markrson the white board so we could all voice our ideas. We then all made a prototype of the website using moqups.com. 
-![alt text](https://imgur.com/a/UTAcr)
+https://imgur.com/a/UTAcrs
