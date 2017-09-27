@@ -22,9 +22,9 @@ Today we as a group looked at the schools website and looked at what we can impr
 https://drive.google.com/open?id=0B_1lAaU9RD5mQlZVbUZwdV92MHM
 
 
-##Homework
+## Homework
 
-###How to make tea
+### How to make tea
 
 1. Boil the water
 2. Add a teabag to your cup
