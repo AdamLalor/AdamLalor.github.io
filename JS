@@ -1,0 +1,157 @@
+Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+var Adam = "Game"
+undefined
+var Adam = "Game";
+undefined
+var Adam = "Game";
+undefined
+var Adam = "Game";
+Adam - 4
+Adam = true
+
+true
+console.log(Adam)
+Adam - 4
+console.log("Oh my" - Adam"
+VM373:3 Uncaught SyntaxError: Invalid or unexpected token
+console.log(Adam)
+Adam - 4
+console.log("Oh my" - Adam")
+VM375:3 Uncaught SyntaxError: Invalid or unexpected token
+console.log(Adam)
+Adam - 4
+console.log("Oh my" -Adam")
+VM376:3 Uncaught SyntaxError: Invalid or unexpected token
+console.log(Adam)
+Adam - 4
+console.log("Oh my" - Adam)
+VM379:1 true
+VM379:3 NaN
+undefined
+console.log(Adam)
+Adam - 4
+console.log("Oh my" + Adam)
+VM381:1 true
+VM381:3 Oh mytrue
+undefined
+var Adam = "Adam lalor";
+
+
+undefined
+var Name;
+name = "Adam Lalor"
+
+"Adam Lalor"
+console.log("Hello my name is" + Name)
+VM496:1 Hello my name isundefined
+undefined
+console.log("Hello my name is " +Name)
+VM497:1 Hello my name is undefined
+undefined
+console.log("Hello my name is " + Name)
+VM498:1 Hello my name is undefined
+undefined
+var Adam = "Adam lalor";
+
+
+undefined
+console.log("Hello my name is "+ Name)
+VM500:1 Hello my name is undefined
+undefined
+console.log("Hello my name is "+Name)
+VM501:1 Hello my name is undefined
+undefined
+var Name;
+name = "Adam Lalor"
+
+"Adam Lalor"
+console.log("Hello my name is "+Name)
+VM504:1 Hello my name is undefined
+undefined
+console.log("Hello my name is "+ name)
+VM507:1 Hello my name is Adam Lalor
+undefined
+var Age;
+Age = "16"
+
+"16"
+console.log(Age)
+VM569:1 16
+undefined
+if("Age") {
+console.log(Age);
+} lse
+
+VM686:2 16
+VM686:3 Uncaught ReferenceError: lse is not defined
+    at <anonymous>:3:3
+(anonymous) @ VM686:3
+if(Age) {
+console.log(Age)
+    {
+
+VM757:3 Uncaught SyntaxError: Unexpected end of input
+if(Age) {
+console.log(Age)
+
+VM758:2 Uncaught SyntaxError: Unexpected end of input
+if(Age) {
+console.log(Age)
+}
+
+VM759:2 16
+undefined
+if(Age) {
+console.log(Age)
+}
+
+VM760:2 16
+undefined
+if(Age > 10) {
+console.log("I aman adult")
+}
+
+VM765:2 I aman adult
+undefined
+if(Age > 10) {
+console.log("I am an adult")
+}
+
+VM766:2 I am an adult
+undefined
+if(Age > 10) {
+console.log("I am an adult")
+} else {
+
+VM775:3 Uncaught SyntaxError: Unexpected end of input
+if(Age > 10) {
+console.log("I am an adult")
+} else {
+console.log("I am a child")
+
+VM798:4 Uncaught SyntaxError: Unexpected end of input
+if(Age > 10) {
+console.log("I am an adult")
+} else {
+console.log("I am a child")}
+
+VM799:2 I am an adult
+undefined
+Age = 9
+9
+if(Age > 10) {
+console.log("I am an adult")
+} else {
+console.log("I am a child")}
+
+VM819:4 I am a child
+undefined
+Age = 16
+16
+if(Age > 10) {
+console.log("I am an adult")
+} else {
+console.log("I am a child")}
+
+VM822:2 I am an adult
+undefined
