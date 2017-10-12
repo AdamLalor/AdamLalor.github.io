@@ -47,4 +47,11 @@ li a:hover:not(.active) {
                 font-size: 15px;
                 color: black;
             }
+
+div.fixedb {
+                position: static;
+                text-align: center;
+                font-size: 35px;
+                color: black;
+            }
     
