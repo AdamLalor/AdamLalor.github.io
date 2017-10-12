@@ -33,14 +33,14 @@ li a:hover:not(.active) {
 }
             
                 
-            div.fixed {
+            div.header {
                 position: static;
                 text-align: center;
                 font-size: 35px;
                 color: black;
             }
             
-        div.pfixed {
+        div.homepara {
                 position: static;
                 bottom: 320px;
                 left: 0px;
@@ -48,7 +48,7 @@ li a:hover:not(.active) {
                 color: black;
             }
 
-div.fixedb {
+div.contact {
                 position: static;
                 text-align: center;
                 font-size: 35px;
