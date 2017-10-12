@@ -35,7 +35,7 @@ li a:hover:not(.active) {
                 
             div.fixed {
                 position: fixed;
-                bottom: 300px;
+                bottom: 400px;
                 left: 525px;
                 font-size: 35px;
                 color: black;
