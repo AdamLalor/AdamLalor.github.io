@@ -34,7 +34,7 @@ li a:hover:not(.active) {
             
                 
             div.fixed {
-                position: fixed;
+                position: static;
                 bottom: 200px;
                 left: 525px;
                 font-size: 35px;
@@ -42,7 +42,7 @@ li a:hover:not(.active) {
             }
             
         div.pfixed {
-                position: fixed;
+                position: static;
                 bottom: 320px;
                 left: 0px;
                 font-size: 15px;
