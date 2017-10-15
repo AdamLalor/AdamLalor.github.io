@@ -12,7 +12,7 @@ li {
 }
 
 li:last-child {
-    border-right: none;
+    border-right:1px solid #bbb;
 }
 
 li a {
@@ -28,7 +28,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #041977;
+    background-color: #ef9402;
     
 }
             
