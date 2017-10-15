@@ -37,7 +37,8 @@ li a:hover:not(.active) {
                 position: static;
                 text-align: center;
                 font-size: 35px;
-                color: black;
+                color: orange;
+                font-weight: bold;
             }
             
         div.homepara {
@@ -46,6 +47,7 @@ li a:hover:not(.active) {
                 left: 0px;
                 font-size: 15px;
                 color: black;
+            font-weight: bold;
             }
 
 div.contact {
@@ -54,4 +56,3 @@ div.contact {
                 font-size: 35px;
                 color: black;
             }
-    
