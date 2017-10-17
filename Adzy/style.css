@@ -35,8 +35,7 @@ li a:hover:not(.active) {
                 
             div.header {
                 position: static;
-                left: 150px;
-                bottom: 330px;
+                text-align: center;
                 font-size: 35px;            
                 color: black;
             }
