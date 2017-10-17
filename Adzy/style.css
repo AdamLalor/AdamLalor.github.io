@@ -8,7 +8,7 @@
 
 li {
     float: left;
-    border-right:1px solid #bbb;
+    border-right:0px solid #bbb;
 }
 
 li:last-child {
@@ -35,8 +35,9 @@ li a:hover:not(.active) {
                 
             div.header {
                 position: static;
-                text-align: center;
-                font-size: 35px;
+                left: 150px;
+                bottom: 330px;
+                font-size: 35px;            
                 color: black;
             }
             
