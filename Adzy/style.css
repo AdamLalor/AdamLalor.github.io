@@ -24,7 +24,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #111;
+    background-color: #bbb;
 }
 
 .active {
@@ -46,6 +46,14 @@ li a:hover:not(.active) {
                 left: 0px;
                 font-size: 15px;
                 color: black;
+            }  
+
+    div.homepara2 {
+                position: static;
+                bottom: 320px;
+                left: 0px;
+                font-size: 15px;
+                color: white;
             }
 
 div.contact {
@@ -54,4 +62,5 @@ div.contact {
                 font-size: 35px;
                 color: black;
             }
-    
+
+body.home2{background-image:url(images/black-background-1468370534d5s.jpg);}
