@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #11100e;
+    background-color: #930112;
 }
 
 li {
@@ -28,7 +28,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #e80909;
+    background-color: #cc0219;
     
 }
             
@@ -104,7 +104,7 @@ body.home2{background-image:url(images/black-background-1468370534d5s.jpg);}
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: #cc0219;
 }
 
 .dropdown-content {
