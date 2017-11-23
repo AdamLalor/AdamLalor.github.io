@@ -46,6 +46,7 @@ li a:hover:not(.active) {
                 left: 0px;
                 font-size: 15px;
                 color: black;
+            font-family: fantasy;
             }  
 
     div.homepara2 {
@@ -54,6 +55,8 @@ li a:hover:not(.active) {
                 left: 0px;
                 font-size: 15px;
                 color: white;
+        font-family: fantasy
+        
             }
 
   div.homepara3 {
@@ -61,6 +64,7 @@ li a:hover:not(.active) {
                 left: 400px;
                 font-size: 15px;
                 color: white;
+      font-family: fantasy
             }
 
 div.contact {
@@ -68,6 +72,7 @@ div.contact {
                 text-align: center;
                 font-size: 35px;
                 color: white;
+    font-family: fantasy
             }
 
 body {background-color: black;}
