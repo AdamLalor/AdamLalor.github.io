@@ -179,7 +179,8 @@ body {background-color: black;}
     
 }
  
-
+ 
 .green{
 	background:#999;
+    z-index: 2;
 }
