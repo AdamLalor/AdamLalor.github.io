@@ -139,10 +139,21 @@ body {background-color: black;}
 
 
 
-
-
-
-
+.btn-primary.active {
+ color: white;
+ background-color: #e83114 ;
+ border-color: #285e8e ;
+}
+.btn-primary {
+   color: white;
+   background-color: #444;
+   border-color: #222;
+}
+.btn-primary:hover:not(.active) {
+   color: white;
+   background-color:#e83114 ;
+   border-color:#222;
+}
 
 
 
