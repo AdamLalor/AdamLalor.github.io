@@ -132,3 +132,43 @@ body {background-color: black;}
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box{
+	width:500px;
+    height:1000px;
+    position:relative;
+    z-index: 1;
+    
+}
+ 
+
+.green{
+	background:#999;
+}
