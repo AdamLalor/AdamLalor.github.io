@@ -75,86 +75,63 @@ body {background-color: black;}
 
 
 .navbar {
-    overflow: hidden;
-    background-color: #333;
-    font-family: Arial;
+   overflow: hidden;
+   background-color: #333;
+   font-family: Arial;
 }
 
 .navbar a {
-    float: left;
-    font-size: 16px;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+   float: left;
+   font-size: 16px;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
 }
 
 .dropdown {
-    float: left;
-    overflow: hidden;
+   float: left;
+   overflow: hidden;
 }
 
 .dropdown .dropbtn {
-    font-size: 16px;    
-    border: none;
-    outline: none;
-    color: white;
-    padding: 14px 16px;
-    background-color: inherit;
+   font-size: 16px;    
+   border: none;
+   outline: none;
+   color: white;
+   padding: 14px 16px;
+   background-color: inherit;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #cc0219;
+   background-color: #cc0219 ;
 }
 
 .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
+   display: none;
+   position: absolute;
+   background-color: #f9f9f9 ;
+   min-width: 160px;
+   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   z-index: 1;
 }
 
 .dropdown-content a {
-    float: none;
-    color: black;
-    padding: 14px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
+   float: none;
+   color: black;
+   padding: 14px 16px;
+   text-decoration: none;
+   display: block;
+   text-align: left;
 }
 
 .dropdown-content a:hover {
-    background-color: #ddd;
+   background-color: #ddd;
 }
 
 .dropdown:hover .dropdown-content {
-    display: block;
+   display: block;
 }
-
-
-
-
-
-
-
-.btn-primary.active {
- color: white;
- background-color: #e83114 ;
- border-color: #285e8e ;
-}
-.btn-primary {
-   color: white;
-   background-color: #444;
-   border-color: #222;
-}
-.btn-primary:hover:not(.active) {
-   color: white;
-   background-color:#e83114 ;
-   border-color:#222;
-}
-
 
 
 
