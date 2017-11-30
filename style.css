@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #930112;
+    background-color: #06409e;
 }
 
 li {
@@ -28,8 +28,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #cc0219;
-    
+    background-color: #1264e8;
 }
             
                 
